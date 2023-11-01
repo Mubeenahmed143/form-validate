@@ -1,0 +1,216 @@
+
+legend{
+    font-weight: bold;
+}
+
+#name{
+    margin-left: 115px;
+}
+
+#care{
+    margin-left: 150px;
+    align-content: center;
+    display: inline;
+}
+#guardian{
+    margin-left: 100px;
+}
+#Mother{
+    margin-left: 190px;
+    align-content: center;
+    display: inline;
+}
+#mr{
+    margin-left: 50px;
+    display: inline;
+  
+}
+#mrs{
+    margin-left: 160px;
+    align-content:center;
+    display: inline-block;
+}
+#gender{
+    margin-left: 200px;
+}
+#db{
+    margin-left: 220px;
+    align-content: center;
+    display: inline;
+}   
+#dd{
+    margin-left: 60px;
+}
+#status{
+    margin-left: 160px;
+}
+#category{
+    margin-left: 340px;
+}
+#category1{
+    margin-left: 90px;
+}
+#no{
+   margin-left: 170px;
+}
+#ex{
+    margin-left: 330px;
+}
+#service{
+    margin-left: 50px;
+}
+#ews{
+    margin-left: 220px;
+}
+#Religion{
+    margin-left: 40px;
+}
+#religion{
+    margin-left: 50px;
+}
+#mn{
+    margin-left: 150px;
+}
+#em{
+    margin-left: 250px;
+}
+#el{
+    margin-left: 90px;
+}
+#a1{
+    margin-left: 155px;
+}
+#A2{
+    margin-left: 250px;
+}
+#a2{
+    margin-left: 50px;
+}
+#city{
+    margin-left: 225px;
+}
+#state{
+    margin-left: 250px;
+}
+#country{
+    margin-left: 120px;
+    padding-left: 70px;
+}
+#pc{
+    margin-left: 195px;
+}
+
+#srno{
+    font-weight: bolder;
+}
+#qual{
+    margin-left: 100px;
+    font-weight: bolder;
+}
+#board{
+    margin-left: 100px;
+    font-weight: bolder;
+}
+#year{
+    margin-left: 100px;
+    font-weight: bolder;
+}
+#max{
+    margin-left: 110px;
+    font-weight: bolder;
+}
+#mark{
+    margin-left: 100px;
+    font-weight: bolder;
+}
+#percent{
+    margin-left: 100px;
+    font-weight: bolder;
+}
+#mat{
+    padding-left: 40px;
+    margin-left: 90px;
+}
+#bu{
+    margin-left: 60px;
+}
+#py{
+    margin-left: 70px;
+   padding-right: 5px;
+   width: 90px;
+}#mm{
+    margin-left: 90px;
+    width: 90px;
+}
+#mo{
+    margin-left: 90px;
+    width: 90px;
+}
+#pt{
+    margin-left: 90px;
+    width: 90px;
+}
+#lang{
+    font-weight: bolder;
+    font-size: large;
+}
+#read{
+    margin-left: 230px;
+    font-weight: bolder;
+    font-size: large;
+}
+#write{
+    margin-left: 250px;
+    font-weight: bolder;
+    font-size: large;
+}
+#spok{
+    margin-left: 250px;
+    font-weight: bolder;
+    font-size: large;
+}
+#hd{
+    font-weight: bolder;
+    font-size: large;
+}
+#rd{
+    margin-left: 280px;
+    font-weight: bolder;
+    width: 20px;
+}
+#wt{
+    margin-left: 290px;
+    font-weight: bolder;
+    width: 20px;
+}
+#sp{
+    margin-left: 295px;
+    font-weight: bolder;
+    width: 20px;
+}
+#eg{
+margin-left: 1px;
+font-weight: bolder;
+    font-size: large;
+}
+#rg{
+    margin-left: 265px;
+    width: 20px;
+}
+#ri{
+    margin-left: 282px;
+    width: 20px;
+}
+#pcn{
+    margin-left: 150px;
+}
+#but{
+    margin-left: 51px;
+    
+}
+#us{
+    margin-left: 140px;
+}
+#bt{
+    margin-left: 15px;
+}
